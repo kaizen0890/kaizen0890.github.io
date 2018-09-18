@@ -1,10 +1,10 @@
 # Site
-title:          JBlog
-bio:            'Just a simple Jekyll theme'
-description:    "JBlog is a minimal, one column and blue jekyll theme for your blog."
+title:          Thanh's Blog
+bio:            Sharing to learning
+description:    "This is my blog."
 picture:        'assets/img/profile.png'
 locale:         en_US
-url:            https://alperenbozkurt.github.io/JBlog
+url:            https://kaizen0890.github.io
 
 
 # Jekyll
